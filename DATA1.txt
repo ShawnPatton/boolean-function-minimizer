@@ -1,0 +1,8 @@
+ABC Abc ABc AbC abC aBc X
+ABCD ABcD ABcd AbCD aBCD aBCd aBcD abcD X
+aBcDEf ABcdEF AbCdEF ABCdEF aBCDEf ABCDEF ABcdEf AbCDEF aBcDef X
+abcde AbCde ABcdE abCde aBCDE Abcde abCDE abCDe aBcDE ABCDE AbCDe X
+aBCdE ABCde ABcde aBcdE ABcDe ABCdE AbCde AbCdE X
+abCd aBcd Abcd AbcD abCD aBCD abcD aBCd X
+S
+AbCd abCd ABcd abcD AbCD ABCd abcd ABCD X
