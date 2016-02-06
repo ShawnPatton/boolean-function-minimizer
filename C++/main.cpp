@@ -63,8 +63,8 @@ unsigned long long accounted; //holds minterms that are accounted for by printed
 //*******************************************************************************************
 int main()
 {
-    InFile.open("DATA1.txt");
-    OutFile.open("ArchitectureOutput1.rtf");
+    InFile.open("BoolMinINPUT.txt");
+    OutFile.open("BoolMinOUTPUT.txt");
     InFile >> noskipws;
 
     while(notdone)
